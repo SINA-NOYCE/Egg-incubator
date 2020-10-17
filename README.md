@@ -11,4 +11,4 @@ https://www.instagram.com/tv/CFykC3FJZkE/?igshid=ajve5lw88y9k
 
 there are two arduino program file : 
  first one is the main program.
- another one is for testin device and data logging to sdcard
+ another one is for testing device and data logging to sdcard.
